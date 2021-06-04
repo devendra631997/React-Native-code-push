@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReactNativeYoutube</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">gmin43_33dKkRPNOa3dzn0FaTMgZ1gywNUgUZ</string>
+</resources>
